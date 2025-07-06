@@ -1,8 +1,5 @@
 # Network Tic Tac Toe Game
 
-![Tic Tac Toe Gameplay](https://i.imgur.com/JR6oF1E.png)  
-*Example of game in progress - Server (O) vs Client (X)*
-
 ## Table of Contents
 1. [Project Description](#project-description)
 2. [Features](#features)
@@ -10,9 +7,6 @@
 4. [Installation](#installation)
 5. [How to Play](#how-to-play)
 6. [Game Rules](#game-rules)
-7. [Code Structure](#code-structure)
-8. [How It Works](#how-it-works)
-9. [Presentation Points](#presentation-points)
 
 
 ## Project Description
