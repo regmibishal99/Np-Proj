@@ -5,8 +5,8 @@
 2. [Features](#features)
 3. [Technology Stack](#technology-stack)
 4. [Installation](#installation)
-5. [How to Play](#how-to-play)
-6. [Game Rules](#game-rules)
+5. [Prerequisites](#Prerequisites)
+6. [Compilation](#Compilation)
 
 
 ## Project Description
