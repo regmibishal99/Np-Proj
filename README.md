@@ -19,7 +19,6 @@ A complete implementation of the classic Tic Tac Toe game using client-server ar
 ✔️ Draw detection when board is full  
 ✔️ Clear visual board display  
 ✔️ Input validation  
-✔️ Network error handling  
 
 ## Technology Stack
 - **Programming Language**: C
